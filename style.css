@@ -106,7 +106,7 @@
 
 .center-container {
     transform: scale(0);
-    background-image: url(./mountain.jpg);
+    background-image: url(./images/mountain.jpg);
     background-size: cover;
     position: absolute;
     z-index: 2;
